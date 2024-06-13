@@ -1,0 +1,51 @@
+First Name,Last Name,Email,Phone Number,Hire Date,Job ,Salary,Commission Percent,Manager,Department
+Steven,King,SKING,515.123.4567,10/10/2009,President,"24,000",,,ACCOUNTING
+Neena,Kochhar,NKOCHHAR,515.123.4568,1/15/2012,Administration Vice President,"17,000",,Steven,RESEARCH
+Lex,De Haan,LDEHAAN,515.123.4569,5/9/2015,Administration Vice President,"17,000",,Steven,SALES
+Alexander,Hunold,AHUNOLD,590.423.4567,4/28/2012,Programmer,"9,000",,Lex,SALES
+Bruce,Ernst,BERNST,590.423.4568,9/13/2013,Programmer,"6,000",,Alexander,SALES
+David,Austin,DAUSTIN,590.423.4569,10/19/2019,Programmer,"4,800",,Alexander,SALES
+Valli,Pataballa,VPATABAL,590.423.4560,5/31/2020,Programmer,"4,800",,Alexander,SALES
+Diana,Lorentz,DLORENTZ,590.423.5567,6/2/2021,Programmer,"4,200",,Alexander,SALES
+Nancy,Greenberg,NGREENBE,515.124.4569,12/10/2016,Finance Manager,"12,000",,Neena,ACCOUNTING
+Daniel,Faviet,DFAVIET,515.124.4169,12/9/2016,Accountant,"9,000",,Nancy,RESEARCH
+John,Chen,JCHEN,515.124.4269,1/22/2020,Accountant,"8,200",,Nancy,RESEARCH
+Ismael,Sciarra,ISCIARRA,515.124.4369,1/24/2020,Accountant,"7,700",,Nancy,RESEARCH
+Jose Manuel,Urman,JMURMAN,515.124.4469,6/30/2020,Accountant,"7,800",,Nancy,RESEARCH
+Luis,Popp,LPOPP,515.124.4567,4/1/2022,Accountant,"6,900",,Nancy,ACCOUNTING
+Den,Raphaely,DRAPHEAL,515.127.4561,4/1/2017,Purchasing Manager,"11,000",,Steven,ACCOUNTING
+Alexander,Khoo,AKHOO,515.127.4562,9/10/2017,Purchasing Clerk,"3,100",,Den,RESEARCH
+Shelli,Baida,SBAIDA,515.127.4563,4/18/2020,Purchasing Clerk,"2,900",,Den,SALES
+Sigal,Tobias,STOBIAS,515.127.4564,11/17/2019,Purchasing Clerk,"2,800",,Den,SALES
+Guy,Himuro,GHIMURO,515.127.4565,3/10/2021,Purchasing Clerk,"2,600",,Den,SALES
+Karen,Colmenares,KCOLMENA,515.127.4566,12/3/2021,Purchasing Clerk,"2,500",,Den,SALES
+Matthew,Weiss,MWEISS,650.123.1234,11/11/2018,Stock Manager,"8,000",,Steven,SALES
+Adam,Fripp,AFRIPP,650.123.2234,8/4/2019,Stock Manager,"8,200",,Steven,SALES
+Payam,Kaufling,PKAUFLIN,650.123.3234,8/24/2017,Stock Manager,"7,900",,Steven,ACCOUNTING
+Shanta,Vollman,SVOLLMAN,650.123.4234,2/3/2020,Stock Manager,"6,500",,Steven,RESEARCH
+Kevin,Mourgos,KMOURGOS,650.123.5234,3/11/2022,Stock Manager,"5,800",,Steven,RESEARCH
+Julia,Nayer,JNAYER,650.124.1214,11/9/2019,Stock Clerk,"3,200",,Matthew,RESEARCH
+Irene,Mikkilineni,IMIKKILI,650.124.1224,1/21/2021,Stock Clerk,"2,700",,Matthew,RESEARCH
+James,Landry,JLANDRY,650.124.1334,5/9/2021,Stock Clerk,"2,400",,Matthew,ACCOUNTING
+Steven,Markle,SMARKLE,650.124.1434,7/2/2022,Stock Clerk,"2,200",,Matthew,ACCOUNTING
+Laura,Bissot,LBISSOT,650.124.5234,12/14/2019,Stock Clerk,"3,300",,Adam,RESEARCH
+Mozhe,Atkinson,MATKINSO,650.124.6234,2/23/2020,Stock Clerk,"2,800",,Adam,SALES
+James,Marlow,JAMRLOW,650.124.7234,6/12/2019,Stock Clerk,"2,500",,Adam,SALES
+TJ,Olson,TJOLSON,650.124.8234,8/3/2021,Stock Clerk,"2,100",,Adam,SALES
+Jason,Mallin,JMALLIN,650.127.1934,10/8/2018,Stock Clerk,"3,300",,Payam,SALES
+Michael,Rogers,MROGERS,650.127.1834,12/19/2020,Stock Clerk,"2,900",,Payam,SALES
+Ki,Gee,KGEE,650.127.1734,4/6/2022,Stock Clerk,"2,400",,Payam,SALES
+Hazel,Philtanker,HPHILTAN,650.127.1634,6/1/2022,Stock Clerk,"2,200",,Payam,ACCOUNTING
+Renske,Ladwig,RLADWIG,650.121.1234,11/6/2017,Stock Clerk,"3,600",,Shanta,RESEARCH
+Stephen,Stiles,SSTILES,650.121.2034,2/19/2020,Stock Clerk,"3,200",,Shanta,RESEARCH
+John,Seo,JSEO,650.121.2019,6/7/2020,Stock Clerk,"2,700",,Shanta,RESEARCH
+Joshua,Patel,JPATEL,650.121.1834,7/30/2020,Stock Clerk,"2,500",,Shanta,RESEARCH
+Trenna,Rajs,TRAJS,650.121.8009,2/9/2018,Stock Clerk,"3,500",,Kevin,ACCOUNTING
+Curtis,Davies,CDAVIES,650.121.2994,5/25/2019,Stock Clerk,"3,100",,Kevin,ACCOUNTING
+Randall,Matos,RMATOS,650.121.2874,7/8/2020,Stock Clerk,"2,600",,Kevin,RESEARCH
+Peter,Vargas,PVARGAS,650.121.2004,11/1/2020,Stock Clerk,"2,500",,Kevin,SALES
+John,Russell,JRUSSEL,011.44.1344.429268,1/25/2019,Sales Manager,"14,000",0.4,Steven,SALES
+Karen,Partners,KPARTNER,011.44.1344.467268,5/1/2019,Sales Manager,"13,500",0.3,Steven,SALES
+Alberto,Errazuriz,AERRAZUR,011.44.1344.429278,7/4/2019,Sales Manager,"12,000",0.3,Steven,SALES
+Gerald,Cambrault,GCAMBRAU,011.44.1344.619268,2/7/2022,Sales Manager,"11,000",0.3,Steven,SALES
+Eleni,Zlotkey,EZLOTKEY,011.44.1344.429018,5/24/2022,Sales Manager,"10,500",0.2,Steven,SALES
